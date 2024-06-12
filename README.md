@@ -87,9 +87,9 @@
 
 
 
-<h3>Lamardebreezy092-MD Stats</h3>
+<h3>Venocyber-MD Stats</h3>
 
-![Lamardebreezy092-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=Lamardebreezy092-md&show_owner=true&theme=dark)
+![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=Lamardebreezy092-md&show_owner=true&theme=dark)
 
 
     
